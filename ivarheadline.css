@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'IvarHeadline';
   src: url('https://cdn.jsdelivr.net/gh/ddrw3/KP@main/IvarHeadline-Bold.otf');
-  src: url('https://cdn.jsdelivr.net/gh/ddrw3/KP@main/IvarHeadline-BoldItalic.otf');
+  src: url('https://cdn.jsdelivr.net/gh/ddrw3/KP@main/IvarHeadline-MediumItalic.otf');
   font-weight: 700;
-  font-style: bold; bolditalic;
+  font-style: sans-serif
   }
